@@ -1,5 +1,5 @@
 Hello world!!!
 
-good bye!
+changed from user1
 
-another line from user 2
+another line from user2
